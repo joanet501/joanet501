@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @joanet501
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Full-Stack Web Development
+- 💞️ I’m looking to collaborate on Backend Java, C++, Full-Stack Web Development
+- 📫 How to reach me joanvidalmezquita@gmail.com
